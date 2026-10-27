@@ -7,7 +7,6 @@
  * @brief This is the solution for the exercises set 1
 -}
 module ExerciseSet1 where
-import Distribution.Simple.Utils (xargs)
 
 -- Excercise 1 v1 -- 
 nAnd1 :: Bool -> Bool -> Bool
